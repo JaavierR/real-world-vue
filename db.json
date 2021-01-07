@@ -267,6 +267,42 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 363283,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Poopy walk",
+      "description": "In the park",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 598875,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Test",
+      "description": "this a test caption",
+      "location": "Madrid",
+      "date": "2021-01-14T23:34:00.000Z",
+      "time": "17:00",
+      "attendees": []
     }
   ]
 }
