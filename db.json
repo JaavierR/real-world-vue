@@ -303,6 +303,24 @@
       "date": "2021-01-14T23:34:00.000Z",
       "time": "17:00",
       "attendees": []
+    },
+    {
+      "id": 73220,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Pyppy walk",
+      "description": "This is a simple test",
+      "location": "Moscu",
+      "date": "2021-01-06T05:58:00.000Z",
+      "time": "14:00",
+      "attendees": []
     }
   ]
 }

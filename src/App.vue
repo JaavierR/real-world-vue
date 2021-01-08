@@ -122,6 +122,12 @@ small {
   background: linear-gradient(to right, #16c0b0, #84cf6a);
   color: #fff;
 }
+
+.-fill-gradient {
+  background: linear-gradient(to right, #16c0b0, #84cf6a);
+  color: #fff;
+}
+
 button,
 label,
 input,
@@ -238,5 +244,8 @@ select:focus::ms-value {
 }
 select::ms-expand {
   opacity: 0;
+}
+.field {
+  margin-bottom: 24px;
 }
 </style>
