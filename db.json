@@ -321,6 +321,24 @@
       "date": "2021-01-06T05:58:00.000Z",
       "time": "14:00",
       "attendees": []
+    },
+    {
+      "id": 251923,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Puppy",
+      "description": "Puppy place",
+      "location": "Mordor",
+      "date": "2021-01-02T22:08:00.000Z",
+      "time": "10:00",
+      "attendees": []
     }
   ]
 }
